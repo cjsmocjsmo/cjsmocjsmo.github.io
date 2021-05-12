@@ -31578,8 +31578,8 @@ if(s.$2(a,k)>0){C.b.m(j.b,b,k)
 b=p}}C.b.m(j.b,b,a)}}
 F.ym.prototype={
 O:function(a,b){var s=null,r=t.p,q=M.lC(s,T.a4w(H.a([new T.xd(1,C.ek,T.ZT(H.a([M.lC(s,L.rx("Oeschinen Lake Campground",A.kI(s,s,s,s,s,s,s,s,s,s,s,s,s,C.bn,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,C.m0,s),L.rx("Kandersteg, Switzerland",A.kI(s,s,C.a1.i(0,500),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),C.cH,C.df,C.cb),s),L.a_s(C.mw,C.eG.i(0,500)),L.rx("41",s,s,s)],r),C.bU,C.df,C.cb),s,s,s,C.m3,s),p=new F.Ou(),o=K.bV(b).b,n=M.lC(s,T.a4w(H.a([p.$3(o,C.mr,"CALL"),p.$3(o,C.mt,"ROUTE"),p.$3(o,C.mv,"SHARE")],r),C.bU,C.ic,C.cb),s,s,s,s,s)
-p=L.rx("Fuck flutter",s,s,s)
-return new S.pV(new M.qY(new E.ol(p,new E.F9(s,s,1/0,56),s),T.ZT(H.a([new U.pt(M.adS(s,s,new L.oo("images/one.jpg",s,s)),400,200,C.fN,s),q,n],r),C.bU,C.df,C.cb),s),"Welcone you fuckits in your ass",s)}}
+p=L.rx("flutter flutter",s,s,s)
+return new S.pV(new M.qY(new E.ol(p,new E.F9(s,s,1/0,56),s),T.ZT(H.a([new U.pt(M.adS(s,s,new L.oo("images/one.jpg",s,s)),400,200,C.fN,s),q,n],r),C.bU,C.df,C.cb),s),"Flut",s)}}
 F.Ou.prototype={
 $3:function(a,b,c){var s=null
 return T.ZT(H.a([L.a_s(b,a),M.lC(s,L.rx(c,A.kI(s,s,a,s,s,s,s,s,s,s,s,12,s,C.v,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,C.m1,s,s)],t.p),C.bU,C.ib,C.qN)},
