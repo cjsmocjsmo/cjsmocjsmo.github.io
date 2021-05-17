@@ -31752,7 +31752,7 @@ b=p}}C.b.m(j.b,b,a)}}
 F.yI.prototype={
 N:function(a,b){return new S.q5(new F.yJ(null),"flugo",null)}}
 F.yJ.prototype={
-N:function(a,b){var s,r=null,q=L.kO("Ampter",A.fw(r,r,C.ro.i(0,300),r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),p=t.p
+N:function(a,b){var s,r=null,q=L.kO("flugo",A.fw(r,r,C.ro.i(0,300),r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),p=t.p
 q=E.a3p(H.a([B.y0(r,C.n5,24,new F.OP(b),"Show Snackbar"),B.y0(r,C.n4,24,new F.OQ(b),"Go to next page")],p),q)
 s=C.eH.i(0,100)
 return M.a5f(q,M.fX(r,T.a_A(H.a([new T.hn(new V.b4(10,10,10,10),new U.pF(M.aeE(r,r,new L.oy("images/one.jpg",r,r)),400,200,C.fO,r),r),$.a95(),$.a91()],p),C.bk,C.bt,C.bu),r,new S.ee(s,r,r,r,r,r,C.a3),r,r,r))}}
