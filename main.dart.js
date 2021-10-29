@@ -52272,19 +52272,19 @@ n=H.a([r,q,p,o,M.eb(m,D.fw(m,K.Lo(n,C.AP),C.a3,!1,m,m,m,m,m,m,m,m,m,m,new T.Qo()
 o=P.aG([null,0],t.st,t.S)
 return new M.t9(new E.pn(l,k,new P.U(1/0,56),m),M.eb(m,new B.zf(new B.VZ(3,10,10,1),new G.VV(!0,!0,!0,n,o),C.mP,C.H,!1,m,!1,m,!1,m,8,C.a3,C.wP,m,C.af,m),C.v,m,m,new S.e9(s,m,m,m,m,m,C.a5),m,m,m,m,m,m,m),m)}}
 T.Qk.prototype={
-$0:function(){$.ex().fb("open",["https://dc951456.dadsvelte.pages.dev","_self"])},
+$0:function(){$.ex().fb("open",["https://dadsvelte.pages.dev","_self"])},
 $S:0}
 T.Ql.prototype={
-$0:function(){$.ex().fb("open",["https://af91579b.tobisvelte.pages.dev","_self"])},
+$0:function(){$.ex().fb("open",["https://tobisvelte.pages.dev","_self"])},
 $S:0}
 T.Qm.prototype={
-$0:function(){$.ex().fb("open",["https://d4d9603e.joettevisitsvelte.pages.dev","_self"])},
+$0:function(){$.ex().fb("open",["https://joettevisitsvelte.pages.dev","_self"])},
 $S:0}
 T.Qn.prototype={
 $0:function(){$.ex().fb("open",["https://texastripsvelte.pages.dev","_self"])},
 $S:0}
 T.Qo.prototype={
-$0:function(){$.ex().fb("open",["https://2e1dab11.tripvids.pages.dev","_self"])},
+$0:function(){$.ex().fb("open",["https://tripvids.pages.dev","_self"])},
 $S:0}
 T.Qp.prototype={
 $0:function(){},
