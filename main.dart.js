@@ -52284,7 +52284,7 @@ T.Qn.prototype={
 $0:function(){$.ex().fb("open",["https://texastripsvelte.pages.dev","_self"])},
 $S:0}
 T.Qo.prototype={
-$0:function(){$.ex().fb("open",["https://tripvids.pages.dev","_self"])},
+$0:function(){$.ex().fb("open",["https://tripvids2.pages.dev","_self"])},
 $S:0}
 T.Qp.prototype={
 $0:function(){},
