@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "7b55c6fb4744c214bd3874130bb1de8b",
-"/": "7b55c6fb4744c214bd3874130bb1de8b",
+  "index.html": "11b168e8f1bd07088ac321bb6fce1847",
+"/": "11b168e8f1bd07088ac321bb6fce1847",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "assets/images/banner.webp": "257221fa0e9f985cf12504522a4019de",
 "assets/images/curt.webp": "43a7b06a5b4e679d537bb7015460e35d",
