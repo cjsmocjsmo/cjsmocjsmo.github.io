@@ -37935,7 +37935,7 @@ ab(){return new A.Rk(B.m)}}
 A.Rk.prototype={
 aw(){var s,r=this
 r.aL()
-s=A.aiR("https://youtu.be/EzS2gjWNGJ0")
+s=A.aiR("video/LogDrop.mp4")
 r.d=s
 r.e=s.fh(0)
 s=r.d
@@ -37999,7 +37999,7 @@ ab(){return new A.Rm(B.m)}}
 A.Rm.prototype={
 aw(){var s,r=this
 r.aL()
-s=A.aiR("https://youtu.be/adLBtc5uBwM")
+s=A.aiR("video/SmallRigOut.mp4")
 r.d=s
 r.e=s.fh(0)
 s=r.d
@@ -38063,7 +38063,7 @@ ab(){return new A.Rl(B.m)}}
 A.Rl.prototype={
 aw(){var s,r=this
 r.aL()
-s=A.aiR("https://youtu.be/jEWxCjmNvUU")
+s=A.aiR("video/TopOut.mp4")
 r.d=s
 r.e=s.fh(0)
 s=r.d
