@@ -6,32 +6,72 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.jpg">
 		<meta name="generator" content="Astro v1.8.0">
 		<title>AlphaTree</title>
-	<link rel="stylesheet" href="/assets/chat.112c88bb.css" />
-<link rel="stylesheet" href="/assets/postreview.dfa70c86.css" /></head>
+	<link rel="stylesheet" href="/assets/chat.831d9a5d.css" />
+<link rel="stylesheet" href="/assets/postreview.6f7a1f0a.css" /><script type="module">const n=document.querySelector('input[name="Name"]'),o=document.querySelector('input[name="Email"]'),c=document.querySelector('input[name="Review"]'),u=document.querySelector("button#revsub");u.addEventListener("click",()=>{const t="http://192.168.0.90:9090/new?comment="+n.value+"/"+o.value+"/"+c.value,e=encodeURI(t);console.log(e),fetch(e)});
+</script></head>
 	<body class="astro-EQBUC37F">
-		<main class="m-auto p-8 max-w-screen-lg astro-5ORFKY22">
+		<main class="m-auto p-8 max-w-screen-lg astro-PFNUSQYU">
 		<div class="sm:ml-0 sm:mt-0 md:ml-20 md:mt-10 mb-20 text-5xl text-blue-600">
     <a href="/"> &larr;</a>
 </div>
 
-        <form class="mx-auto astro-5ORFKY22" action="" method="get">
+		<form class="mx-auto astro-PFNUSQYU" action="" method="get">
+			<!-- <br /><br /> -->
 
-            <center class="astro-5ORFKY22"><label for="fname" class="astro-5ORFKY22">Name:</label></center>
-            <center class="astro-5ORFKY22"><input class="input[type='text'] text-white bg-slate-600 rounded-lg h-8 w-9/12 astro-5ORFKY22" type="text" id="fname" name="fname"></center><br class="astro-5ORFKY22"><br class="astro-5ORFKY22">
-            
-            <center class="astro-5ORFKY22"><label for="lname" class="astro-5ORFKY22">Email:</label></center>
-            <center class="astro-5ORFKY22"><input class="input[type='text'] text-white bg-slate-600 rounded-lg h-8 w-9/12 astro-5ORFKY22" type="text" id="lname" name="lname"></center><br class="astro-5ORFKY22"><br class="astro-5ORFKY22">
+			<div class="flex flex-row astro-PFNUSQYU">
+				<div class="basis-1/2 pr-1 astro-PFNUSQYU">
+					<div class="flex flex-col astro-PFNUSQYU">
+						<label for="Name" class="astro-PFNUSQYU">Name:</label>
 
-            <center class="astro-5ORFKY22"><label for="lname" class="astro-5ORFKY22">Review:</label></center>
-            <center class="astro-5ORFKY22"><input class="textarea text-white bg-slate-600 h-36 rounded-lg h-8 w-9/12 astro-5ORFKY22" id="lname" name="lname"></center><br class="astro-5ORFKY22"><br class="astro-5ORFKY22">
+						<input id="Name" class="input[type='text'] text-white bg-slate-600 rounded-lg h-12 w-full astro-PFNUSQYU" type="text" name="Name" placeholder="Herman Munster">
+					</div>
+				</div>
+
+				<div class="basis-1/2 pr-1 astro-PFNUSQYU">
+					<div class="flex flex-col astro-PFNUSQYU">
+						<label for="Email" class="astro-PFNUSQYU">Email:</label>
+
+						<input id="Email" class="input[type='text'] text-white bg-slate-600 rounded-lg h-12 w-full astro-PFNUSQYU" type="text" name="Email" placeholder="herman@gmail.com">
+					</div>
+				</div>
+			</div>
+
+			<br class="astro-PFNUSQYU"><br class="astro-PFNUSQYU">
+
+			<center class="astro-PFNUSQYU"><label for="Review" class="astro-PFNUSQYU">Review:</label></center>
+			<center class="astro-PFNUSQYU"><input id="Review" class="textarea text-white bg-slate-600 h-36 rounded-lg h-8 w-9/12 astro-PFNUSQYU" name="Review">
+			</center>
+			
+			<br class="astro-PFNUSQYU"><br class="astro-PFNUSQYU">
+			
+			<div class="basis-1/2 pr-1 astro-PFNUSQYU">
+
+				<div class="flex flex-col astro-PFNUSQYU">
+					<center class="astro-PFNUSQYU"><label for="Review" class="astro-PFNUSQYU">Star Rating:</label></center>
+					<center class="astro-PFNUSQYU">
+						<input id="Star" class="input[type='text'] text-white bg-slate-600 rounded-lg h-12 w-20 astro-PFNUSQYU" type="text" name="Star" placeholder="5">
+					</center>
+					
+				</div>
+			</div>
+			
+			<br class="astro-PFNUSQYU"><br class="astro-PFNUSQYU">
+			
 
 			<!-- <input type="file" id="inputfile"/> -->
-            <center class="astro-5ORFKY22"><button class="bg-slate-600 h-14 w-44 text-white rounded-lg astro-5ORFKY22" type="button">Submit</button></center>
-
-          </form> 
+			<center class="astro-PFNUSQYU">
+				<a href="/" class="astro-PFNUSQYU">
+					<button id="revsub" class="bg-slate-600 h-14 w-44 text-white rounded-lg astro-PFNUSQYU" type="button">
+						Submit
+					</button>
+				</a>
+			</center>
+		</form>
 	</main>
 	
 
 
 </body></html>
+
+
 
